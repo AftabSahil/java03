@@ -65,5 +65,4 @@ World
 - `println()` is useful when you want to **move to the next line** after printing.
 - `\n` can be used inside `print()` or `println()` to create new lines within the text.
 
-Happy Coding! 🚀
 
